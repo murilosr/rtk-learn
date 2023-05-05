@@ -1,0 +1,74 @@
+{
+  "pokemons": [
+    {
+      "id": "d20c5f20-d716-4e63-bea7-f71581b7999d",
+      "pokemonId": "3",
+      "dateAdd": 1682888865872
+    },
+    {
+      "id": "95f3549a-00e1-4cac-ad8e-cdce06bb3225",
+      "pokemonId": "ho-oh",
+      "dateAdd": 1683072039652
+    },
+    {
+      "id": "14406e43-9ba9-4346-836c-5983938f31e1",
+      "pokemonId": "articuno",
+      "dateAdd": 1683072049938
+    },
+    {
+      "id": "13873549-d038-4a23-9e48-4348adbce2c0",
+      "pokemonId": "zapdos",
+      "dateAdd": 1683072066395
+    },
+    {
+      "id": "2ee15fdb-bd51-440d-bc6c-7f23d45ff1e4",
+      "pokemonId": "lugia",
+      "dateAdd": 1683072090122
+    },
+    {
+      "id": "261d8632-15ed-4563-8f5f-fc9985fccc34",
+      "pokemonId": "150",
+      "dateAdd": 1683072272320
+    },
+    {
+      "id": "9305dd05-9e17-40b6-a7ee-2d8f2889e5b9",
+      "pokemonId": "miltank",
+      "dateAdd": 1683073284176
+    },
+    {
+      "id": "bd27f93e-9226-4837-bc3b-3aa014fae733",
+      "pokemonId": "sudowoodo",
+      "dateAdd": 1683073294468
+    },
+    {
+      "id": "e3fae7bc-dbb2-4e82-86d9-0ae2ea135a86",
+      "pokemonId": "totodile",
+      "dateAdd": 1683073311307
+    },
+    {
+      "id": "a7c204d5-da78-4fba-bbc2-6a1061d807db",
+      "pokemonId": "159",
+      "dateAdd": 1683073318077
+    },
+    {
+      "id": "7b63eb5c-134d-48ee-9047-e0e684f78c62",
+      "pokemonId": "160",
+      "dateAdd": 1683073320362
+    },
+    {
+      "id": "adc0cdc0-0c4d-4619-95ea-deee9233be42",
+      "pokemonId": "156",
+      "dateAdd": 1683073694575
+    },
+    {
+      "id": "39724c55-779d-4846-9b0d-571a693bb49f",
+      "pokemonId": "157",
+      "dateAdd": 1683073702138
+    },
+    {
+      "id": "4b05482a-c5d8-4192-8f0d-f76cdedf1490",
+      "pokemonId": "155",
+      "dateAdd": 1683073709712
+    }
+  ]
+}
